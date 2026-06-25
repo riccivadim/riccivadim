@@ -33,7 +33,6 @@
 ### :man_technologist: About Me :
 
 I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :selfie: Study at [IT college](https://singularity.academy/)
 - :snake: Main language is Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15">
 - :star2: Love exploring something new in IT
 
