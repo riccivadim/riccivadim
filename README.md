@@ -6,7 +6,7 @@
   <a href="https://t.me/riccivadim">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/cestxvcdim">
+  <a href="https://www.codewars.com/users/riccivadim">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <a href="https://vk.com/fearmyaura">
