@@ -3,19 +3,19 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/cestxvcdim">
+  <a href="https://t.me/riccivadim">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.codewars.com/users/cestxvcdim">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
-  <a href="https://vk.com/cestxvcdim">
+  <a href="https://vk.com/fearmyaura">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=cestxvcdim&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=riccivadim&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="text" align="center">
